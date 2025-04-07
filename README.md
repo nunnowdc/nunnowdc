@@ -124,7 +124,7 @@
   <img width="11" />
   <img src="https://i.pinimg.com/originals/9d/d7/f9/9dd7f9e622c2df33090dada16c9c0151.gif" width="90"/>
   <img width="11" />
-  <img src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif" width="120"/>
+  <img src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif" width="110"/>
 
 </div>
 
