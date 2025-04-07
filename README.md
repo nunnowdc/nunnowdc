@@ -2,7 +2,7 @@
 
 <h2 align="center"> Hello, I'm Nunno Wakiyama!!👋🦆😸 </h2>
 
-<h3 align="left">GitHub Stats: </h3>
+<h3 align="left">📋 GitHub Stats: </h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nunninono&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -40,7 +40,7 @@
 ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
 
 #
-<h3 align="left">Tools & Languages:</h3>
+<h3 align="left">🛠️ Tools & Languages:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="4" />
@@ -67,7 +67,7 @@
 #
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
   <a href="mailto:nunnowdc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pessoal" />
@@ -93,7 +93,7 @@
 
 #
 
-<h3 align="left">GitHub Trophies:</h3>
+<h3 align="left">🏆 GitHub Trophies:</h3>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nunninono&theme=darkhub&margin-w=10&margin-h=1" alt="GitHub Trophies" />
 </div>
@@ -101,7 +101,7 @@
 
 #
 
-<h3 align="left">GitHub Achievements:</h3>
+<h3 align="left">🏅 GitHub Achievements:</h3>
 
 ![Commits](https://img.shields.io/badge/Commits-250%2B-blue)
 ![Repositories](https://img.shields.io/badge/Public%20Repos-15+-green)
