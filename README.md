@@ -66,6 +66,14 @@
 
 #
 
+<h3 align="left">GitHub Trophies:</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nunninono&theme=darkhub&margin-w=10&margin-h=1" alt="GitHub Trophies" />
+</div>
+
+
+#
+
 <div>
   <img src="https://i.pinimg.com/originals/d2/11/0c/d2110c50a22020900743aaad39091499.gif" width="90" />
   <img width="11" />
@@ -81,7 +89,7 @@
   <img width="11" />
   <img src="https://i.pinimg.com/originals/9d/d7/f9/9dd7f9e622c2df33090dada16c9c0151.gif" width="90"/>
   <img width="11" />
-  <img src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif" width="130"/>
+  <img src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif" width="120"/>
 
 </div>
 
