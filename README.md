@@ -66,6 +66,33 @@
 
 #
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:nunnowdc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pessoal" />
+  </a>
+  <img width="1" />
+  <a href="mailto:nunno.00000849115@unicap.br" target="_blank">
+    <img src="https://img.shields.io/badge/Institutional%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Institutional Email" />
+  </a>
+  <img width="1" />
+  <a href="https://github.com/nunninono" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img width="1" />
+  <a href="https://www.linkedin.com/in/seuperfil/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img width="1" />
+  <a href="https://www.instagram.com/nunno_wdc/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+
+#
+
 <h3 align="left">GitHub Trophies:</h3>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nunninono&theme=darkhub&margin-w=10&margin-h=1" alt="GitHub Trophies" />
