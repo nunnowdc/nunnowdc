@@ -2,7 +2,7 @@
 
 <h2 align="center"> Hello, I'm Nunno Wakiyama!!👋🦆😸 </h2>
 
-<h3 align="left">Stats: </h3>
+<h3 align="left">GitHub Stats: </h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nunninono&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -40,7 +40,7 @@
 ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
 
 #
-<h3 align="left">Tools and languages:</h3>
+<h3 align="left">Tools & Languages:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="4" />
