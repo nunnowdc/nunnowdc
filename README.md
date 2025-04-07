@@ -74,6 +74,14 @@
 
 #
 
+<h3 align="left">GitHub Achievements:</h3>
+
+![Commits](https://img.shields.io/badge/Commits-250%2B-blue)
+![Repositories](https://img.shields.io/badge/Public%20Repos-15+-green)
+![Streak](https://img.shields.io/badge/Contrib-Streak_3_days-red)
+
+#
+
 <div>
   <img src="https://i.pinimg.com/originals/d2/11/0c/d2110c50a22020900743aaad39091499.gif" width="90" />
   <img width="11" />
@@ -93,6 +101,7 @@
 
 </div>
 
+#
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8116C4&height=120&section=footer"/>
