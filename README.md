@@ -74,7 +74,7 @@
   </a>
   <img width="1" />
   <a href="mailto:nunno.00000849115@unicap.br" target="_blank">
-    <img src="https://img.shields.io/badge/Institutional%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Institutional Email" />
+  <img src="https://img.shields.io/badge/Institutional%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Institutional Email" />
   </a>
   <img width="1" />
   <a href="https://github.com/nunninono" target="_blank">
