@@ -51,6 +51,7 @@
 ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
 
 #
+
 <h3 align="left">🛠️ Tools & Languages:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -77,6 +78,23 @@
 
 #
 
+<h3 align="left">🏫 Estudando no momento:</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="4" />
+  <img src="https://cdn.discordapp.com/attachments/671919456418791434/1363157901518180393/django.png?ex=68050339&is=6803b1b9&hm=4aeefdd5f8517ce0ea63ec3ab5e56d2a8a4fdd1d70ec883db597741223248781&" height="30" alt="django logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="java script logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" height="30" alt="jQuery logo"  />
+  <img width="4" />
+</div>
+
+#
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
