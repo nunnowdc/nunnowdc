@@ -132,7 +132,7 @@
 
 <h3 align="left">🏅 GitHub Achievements:</h3>
 
-![Commits](https://img.shields.io/badge/Commits-250%2B-blue)
+![Commits](https://img.shields.io/badge/Commits-300%2B-blue)
 ![Repositories](https://img.shields.io/badge/Public%20Repos-15+-green)
 ![Streak](https://img.shields.io/badge/Contrib-Streak_15+_days-red)
 
