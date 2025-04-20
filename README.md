@@ -17,7 +17,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nunninono&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunninono&locale=en&hide_title=false&layout=compact&include_all_commits=true&count_private=true&card_width=400&langs_count=8&theme=github_dark_dimmed&hide_border=true%22%20height=%22125%22%20alt=%22languages%20graph" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunninono&locale=en&hide_title=false&layout=compact&include_all_commits=true&count_private=true&card_width=400&langs_count=8&theme=github_dark_dimmed&hide_border=true&cache_seconds=1" height="150" />
 </div> 
 
 <br>
