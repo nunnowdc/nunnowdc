@@ -84,7 +84,7 @@
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" alt="css logo"  />
   <img width="4" />
-  <img src="https://cdn.discordapp.com/attachments/671919456418791434/1363157901518180393/django.png?ex=68050339&is=6803b1b9&hm=4aeefdd5f8517ce0ea63ec3ab5e56d2a8a4fdd1d70ec883db597741223248781&" height="30" alt="django logo"  />
+  <img src="https://github.com/user-attachments/assets/29804b07-ea59-4bc5-9f01-88ac36f181b4" height="30" alt="django logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="java script logo"  />
   <img width="4" />
