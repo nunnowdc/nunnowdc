@@ -96,7 +96,7 @@
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nunninono&theme=darkhub&margin-w=10&margin-h=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nunnowdc&theme=darkhub&margin-w=10&margin-h=1" alt="GitHub Trophies" />
 </div>
 
 
