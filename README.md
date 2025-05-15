@@ -4,11 +4,11 @@
 
 <h3 align="left">🔹 Sobre mim: </h3>
 <div style="font-size: 14px;">
-  <p>Estudante do 4º período de Ciência da Computação na Universidade Católica de Pernambuco. Tenho formação acadêmica em Python, C e Java, adquirida ao longo da graduação, e costumo aprofundar meus conhecimentos por meio de projetos e estudos pessoais.</p>
+  <p>Sou Nunno Wakiyama Diniz Carvalho, estudante do 4º período de Ciência da Computação na Universidade Católica de Pernambuco. Tenho formação acadêmica em Python, C, Java e SQL, adquirida ao longo da graduação, e costumo aprofundar meus conhecimentos por meio de projetos e estudos pessoais.</p>
 
-  <p>Tenho grande interesse em áreas como Machine Learning, Deep Learning e Inteligência Artificial, áreas que estudo de forma autodidata no meu tempo livre. Também me interesso fortemente em áreas como Desenvolvimento de Software e Ciência de Dados.</p>
+  <p>Tenho grande interesse em áreas como Data Science, Machine Learning e Deep Learning, áreas que estudo de forma autodidata no meu tempo livre. Também me interesso fortemente em áreas como Desenvolvimento de Software e Power BI.</p>
 
-  <p>Atualmente, estou em busca da minha primeira oportunidade profissional na área de computação, a fim de pôr em prática e aprimorar as habilidades que já possuo, além de desenvolver novas competências.</p>
+  <p>Atualmente, estou em busca da minha primeira oportunidade profissional na área de computação, a fim de conseguir transformar minhas habilidades em resultados reais, além de pôr em prática e expandir meus conhecimentos.</p>
 </div>
 
 #
