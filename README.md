@@ -46,7 +46,15 @@
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" height="30px"  />
   <img width="4" />
-  <img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" alt="Overleaf" height="30px"  />
+  <img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" alt="Overleaf" height="30px" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" height="30" alt="jQuery logo"  />
+  <img width="4" />
+  <img src="https://github.com/user-attachments/assets/29804b07-ea59-4bc5-9f01-88ac36f181b4" height="30" alt="django logo"  />
   <img width="4" />
 </div>
 
@@ -54,16 +62,14 @@
 
 <h3 align="left">🏫 Estudando no momento:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="4" />
-  <img src="https://github.com/user-attachments/assets/29804b07-ea59-4bc5-9f01-88ac36f181b4" height="30" alt="django logo"  />
-  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="java script logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" height="30" alt="jQuery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="30" alt="React logo"  />
   <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="30" alt="React Native logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="Node JS logo" />
+  <img width="4" />   
 </div>
 
 #
