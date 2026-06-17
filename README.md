@@ -14,7 +14,7 @@
 <h3 align="left">📋 GitHub Stats: </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nunnowdc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=true" height="180" alt="stats graph" &cache_seconds=86400/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nunnowdc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=true&cache_seconds=86400" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunnowdc&locale=en&hide_title=false&layout=compact&include_all_commits=true&count_private=true&card_width=400&langs_count=12&theme=github_dark_dimmed&hide_border=true&cache_seconds=3200" height="180" />
 </div>
 
@@ -54,12 +54,6 @@
   <img width="4" />
   <img src="https://github.com/user-attachments/assets/29804b07-ea59-4bc5-9f01-88ac36f181b4" height="30" alt="django logo"  />
   <img width="4" />
-</div>
-
-#
-
-<h3 align="left">🏫 Estudando no momento:</h3>
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="java script logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="30" alt="React logo"  />
@@ -67,22 +61,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="30" alt="React Native logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="Node JS logo" />
-  <img width="4" />   
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="4" />
+</div>
+
+#
+
+<h3 align="left">🏫 Estudando no momento:</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30" alt="Supabase logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" />
+  <img width="4" />
 </div>
 
 #
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="nunnowdcarvalho@gmail.com" target="_blank">
+  <a href="mailto:nunnowdcarvalho@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pessoal" />
   </a>
   <img width="1" />
-  <a href="nunno.00000849115@unicap.br" target="_blank">
+  <a href="mailto:nunno.00000849115@unicap.br" target="_blank">
   <img src="https://img.shields.io/badge/Institutional%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Institutional Email" />
   </a>
   <img width="1" />
-  <a href="https://github.com/nunninono" target="_blank">
+  <a href="https://github.com/nunnowdc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img width="1" />
