@@ -4,7 +4,7 @@
 
 <h3 align="left">🔹 Sobre mim: </h3>
 <div style="font-size: 14px;">
-  <p>Sou Nunno Wakiyama Diniz Carvalho, estudante do 6º período de Ciência da Computação na Universidade Católica de Pernambuco. Tenho formação acadêmica nas linguagens Python, C, C++, Java, JavaScript, HTML, CSS e SQL, e frameworks como React, React Native e Django, adquirida ao longo da graduação, e costumo aprofundar meus conhecimentos por meio de projetos e estudos pessoais.</p>
+  <p>Sou Nunno Wakiyama Diniz Carvalho, estudante de Ciência da Computação na CESAR School, onde ingressei via transferência externa após 3 anos (6 períodos) do mesmo curso na UNICAP. Possuo sólida formação em Python, C, Java, JavaScript, SQL, construção de APIs e frameworks como React/Next.js, React Native e Django. Costumo aprofundar meus conhecimentos por meio de projetos e estudos pessoais.</p>
 
   <p>Tenho grande interesse em áreas como Data Science, Machine Learning e Visão Computacional, áreas que estudo de forma autodidata no meu tempo livre. Também me interesso fortemente em áreas como Desenvolvimento de Software, e atualmente estou explorando Supabase, FastAPI e PostgreSQL para expandir meu conhecimento em back-end.</p>
 </div>
