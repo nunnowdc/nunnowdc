@@ -3,14 +3,19 @@
 <h2 align="center"> Hello, I'm Nunno Wakiyama!!👋🦆😸 </h2>
 
 <h3 align="left">🔹 Sobre mim: </h3>
-<div style="font-size: 14px;">
-  <p>Estudante de Ciência da Computação na CESAR School, onde ingressei via transferência externa após 3 anos (6 períodos) de graduação na UNICAP.</p>
 
-  <p>Atualmente, estagio na área de Dados e Negócios na Yames Brazil, atuando na automação de coleta de dados, criação de modelos paramétricos, modelagem de banco em nuvem e desenvolvimento de soluções full stack para inteligência e precificação financeira.</p>
+🎓 Ciência da Computação na CESAR School — cheguei via transferência externa após 3 anos (6 períodos) de graduação na UNICAP.
 
-  <p>Possuo experiência prática na construção de APIs REST com Python (FastAPI, Django), interfaces reativas com React e Next.js, e modelagem/integração de bancos relacionais (PostgreSQL e Supabase). Também aplico boas práticas de engenharia como testes automatizados (Vitest), esteiras de CI/CD (GitHub Actions) e resolução de problemas combinatórios complexos com algoritmos de otimização.</p>
+💼 Estágio em Dados e Negócios na Yames Brazil, atuando na automação de coleta de dados, criação de modelos paramétricos, modelagem de banco em nuvem e desenvolvimento full stack para inteligência e precificação financeira.
 
-  <p>Além do desenvolvimento de software, tenho forte interesse e estudo ativamente temas de Data Science, Machine Learning e Visão Computacional, explorando projetos práticos de Deep Learning e curadoria de dados.</p>
+🛠️ Experiência prática com APIs REST em Python (FastAPI), interfaces reativas com React e Next.js, modelagem e integração de bancos relacionais (PostgreSQL, Supabase), além de boas práticas de engenharia como testes automatizados (Vitest), CI (GitHub Actions) e algoritmos de otimização para problemas combinatórios.
+
+🔬 Interesses de estudo: Data Science, Machine Learning e Visão Computacional — com projetos práticos de Deep Learning e curadoria de dados.
+
+<div align="left">
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </div>
 
 #
@@ -19,7 +24,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nunnowdc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=true&cache_seconds=86400" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunnowdc&locale=en&hide_title=false&layout=compact&include_all_commits=true&count_private=true&card_width=400&langs_count=12&theme=github_dark_dimmed&hide_border=true&cache_seconds=3200" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunnowdc&locale=en&hide_title=false&layout=compact&include_all_commits=true&count_private=true&card_width=400&langs_count=12&theme=github_dark_dimmed&hide_border=true&cache_seconds=3200" height="180" alt="top langs" />
 </div>
 
 <br>
@@ -123,14 +128,12 @@
   </a>
 </p>
 
-
 #
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=nunnowdc&theme=darkhub&margin-w=10&margin-h=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nunnowdc&theme=darkhub&margin-w=10&margin-h=1" alt="GitHub Trophies" />
 </div>
-
 
 #
 
