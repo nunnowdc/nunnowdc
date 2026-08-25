@@ -8,14 +8,12 @@
 
 💼 Estágio em Dados e Negócios na Yames Brazil, atuando na automação de coleta de dados, criação de modelos paramétricos, modelagem de banco em nuvem e desenvolvimento full stack para inteligência e precificação financeira.
 
-🛠️ Experiência prática com APIs REST em Python (FastAPI), interfaces reativas com React e Next.js, modelagem e integração de bancos relacionais (PostgreSQL, Supabase), além de boas práticas de engenharia como testes automatizados (Vitest), CI (GitHub Actions) e algoritmos de otimização para problemas combinatórios.
+🛠️ Experiência prática com APIs REST em Python (FastAPI, Django), interfaces reativas com React e Next.js, modelagem e integração de bancos relacionais (PostgreSQL, Supabase), além de boas práticas de engenharia como testes automatizados (Vitest), CI/CD (GitHub Actions) e algoritmos de otimização para problemas combinatórios.
 
 🔬 Interesses de estudo: Data Science, Machine Learning e Visão Computacional — com projetos práticos de Deep Learning e curadoria de dados.
 
 <div align="left">
   <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </div>
 
 #
@@ -55,6 +53,8 @@
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" alt="css logo"  />
   <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS logo" />
+  <img width="4" />
 </div>
 
 #
@@ -88,6 +88,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda logo" />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="30" alt="Prisma logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="30" alt="GitHub Actions logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="30" alt="Vitest logo" />
   <img width="4" />
 </div>
 
