@@ -10,7 +10,7 @@
 
 🛠️ Experiência prática com APIs REST em Python (FastAPI, Django), interfaces reativas com React e Next.js, modelagem e integração de bancos relacionais (PostgreSQL, Supabase), além de boas práticas de engenharia como testes automatizados (Vitest), CI/CD (GitHub Actions) e algoritmos de otimização para problemas combinatórios.
 
-🔬 Interesses de estudo: Data Science, Machine Learning e Visão Computacional — com projetos práticos de Deep Learning e curadoria de dados.
+🔬 Interesses de estudo: Data Science, Data Engineer, Machine Learning e Visão Computacional — com projetos práticos de Deep Learning e curadoria de dados.
 
 #
 
