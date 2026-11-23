@@ -158,8 +158,8 @@
 
 <h3 align="left">🏅 GitHub Achievements:</h3>
 
-![Commits](https://img.shields.io/badge/Commits-600%2B-blue)
-![Repositories](https://img.shields.io/badge/Public%20Repos-35+-green)
+![Commits](https://img.shields.io/badge/Commits-1600%2B-blue)
+![Repositories](https://img.shields.io/badge/Public%20Repos-30+-green)
 ![Streak](https://img.shields.io/badge/Contrib-Streak_15+_days-red)
 
 #
