@@ -1,8 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,55:EA580C,100:FACC15&height=150&section=header&text=Nunno%20Wakiyama&fontSize=44&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:F85B1A,100:FFC300&height=150&section=header&" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=2500&pause=1500&color=F85B1A&center=true&vCenter=true&width=600&height=60&lines=Nunno+Wakiyama" alt="Nunno Wakiyama" />
+</div>
+
+<br>
 
 ### 🔹 Sobre mim
 
-<img align="right" src="COLE_O_LINK_DO_GIF_1_AQUI" width="130" alt="Dragon Ball Pixel Art" />
+<img align="right" src="https://media.tenor.com/rN5mpTqhfHMAAAAM/goku-dbz.gif" width="150" alt="Dragon Ball Pixel Art" />
 
 - 🎓 **Formação** — Graduando em Ciência da Computação na **CESAR School** (ingresso via transferência externa após 6 períodos na UNICAP).
 
@@ -16,77 +22,172 @@
 
 ---
 
-### 🚀 Projetos em Destaque <img src="COLE_O_LINK_DO_GIF_2_AQUI" height="28" alt="Dragon Ball Pixel Art" />
+### 🚀 Projetos em Destaque <img src="https://media.tenor.com/3Rno-1ZCxzQAAAAC/dragon-ball-budoten-fighter-z-idle-gif.gif" height="45" alt="Dragon Ball Pixel Art" />
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <br>
       <strong>⚡ <a href="https://github.com/nunnowdc/v-energy-grid-360">V-Energy Grid 360</a></strong>
       <p>Portal analítico e operacional para o setor elétrico com indicadores de receita, continuidade (DEC/FEC), visão 360° de unidades consumidoras, fila de inspeção e agente de IA conversacional com RAG e Text-to-SQL.</p>
-      <img src="https://img.shields.io/badge/FastAPI-0D1B2A?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/React-0D1B2A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/PostgreSQL_%2B_pgvector-0D1B2A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL + pgvector" />
-      <img src="https://img.shields.io/badge/LangGraph-0D1B2A?style=flat-square&logo=langchain&logoColor=FACC15" alt="LangGraph" />
-      <img src="https://img.shields.io/badge/Docker-0D1B2A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-0D1B2A?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-0D1B2A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/PostgreSQL_%2B_pgvector-0D1B2A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL + pgvector" />
+        <img src="https://img.shields.io/badge/LangGraph-0D1B2A?style=flat-square&logo=langchain&logoColor=FFC300" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/Docker-0D1B2A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+      </p>
     </td>
     <td width="50%" valign="top">
+      <br>
       <strong>🎬 <a href="https://github.com/nunnowdc/Atividade-DEV-Rocket-Lab-26.2">CineRocket</a></strong>
       <p>Plataforma full-stack de catálogo e avaliação de filmes inspirada no Letterboxd, com busca reativa, filtros combináveis, watchlist persistente, média ponderada incremental e suíte de testes automatizados.</p>
-      <img src="https://img.shields.io/badge/React_19-0D1B2A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-      <img src="https://img.shields.io/badge/TypeScript-0D1B2A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/CSS_Modules-0D1B2A?style=flat-square&logo=cssmodules&logoColor=white" alt="CSS Modules" />
-      <img src="https://img.shields.io/badge/FastAPI-0D1B2A?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-0D1B2A?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" />
+      <p>
+        <img src="https://img.shields.io/badge/React_19-0D1B2A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+        <img src="https://img.shields.io/badge/TypeScript-0D1B2A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/CSS_Modules-0D1B2A?style=flat-square&logo=cssmodules&logoColor=white" alt="CSS Modules" />
+        <img src="https://img.shields.io/badge/FastAPI-0D1B2A?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-0D1B2A?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <br>
       <strong>🏗️ <a href="https://github.com/nunnowdc/Projeto-CineData-Analytics-RocketLab-2026.2">CineData Analytics — Pipeline Lakehouse</a></strong>
       <p>Pipeline de Engenharia de Dados end-to-end no Databricks seguindo a Arquitetura Medalhão (Bronze → Silver → Gold), modelagem dimensional em Star Schema, ingestão da API PTAX (BCB) e base de contexto para RAG.</p>
-      <img src="https://img.shields.io/badge/Databricks-0D1B2A?style=flat-square&logo=databricks&logoColor=FF3621" alt="Databricks" />
-      <img src="https://img.shields.io/badge/PySpark-0D1B2A?style=flat-square&logo=apachespark&logoColor=E25A1C" alt="PySpark" />
-      <img src="https://img.shields.io/badge/Delta_Lake-0D1B2A?style=flat-square&logo=databricks&logoColor=00ADD8" alt="Delta Lake" />
-      <img src="https://img.shields.io/badge/SQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=FACC15" alt="SQL" />
+      <p>
+        <img src="https://img.shields.io/badge/Databricks-0D1B2A?style=flat-square&logo=databricks&logoColor=FF3621" alt="Databricks" />
+        <img src="https://img.shields.io/badge/PySpark-0D1B2A?style=flat-square&logo=apachespark&logoColor=E25A1C" alt="PySpark" />
+        <img src="https://img.shields.io/badge/Delta_Lake-0D1B2A?style=flat-square&logo=databricks&logoColor=00ADD8" alt="Delta Lake" />
+        <img src="https://img.shields.io/badge/SQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=FFC300" alt="SQL" />
+      </p>
     </td>
     <td width="50%" valign="top">
+      <br>
       <strong>🤖 <a href="https://github.com/nunnowdc/Atividade-GenAI-CineData-Analytics-Rocket-Lab-2026">CineData — Agente Text-to-SQL</a></strong>
       <p>Agente de IA generativa em português para análise de dados cinematográficos em linguagem natural, com autocorreção de queries, camada semântica, fallback entre modelos e guardrails contra SQL/Prompt Injection.</p>
-      <img src="https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-      <img src="https://img.shields.io/badge/PydanticAI-0D1B2A?style=flat-square&logo=pydantic&logoColor=E92063" alt="PydanticAI" />
-      <img src="https://img.shields.io/badge/OpenRouter-0D1B2A?style=flat-square&logo=openai&logoColor=6467F2" alt="OpenRouter" />
-      <img src="https://img.shields.io/badge/Text--to--SQL-0D1B2A?style=flat-square&logoColor=FACC15" alt="Text-to-SQL" />
-      <img src="https://img.shields.io/badge/SQLite-0D1B2A?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" />
+      <p>
+        <img src="https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+        <img src="https://img.shields.io/badge/PydanticAI-0D1B2A?style=flat-square&logo=pydantic&logoColor=E92063" alt="PydanticAI" />
+        <img src="https://img.shields.io/badge/OpenRouter-0D1B2A?style=flat-square&logo=openai&logoColor=6467F2" alt="OpenRouter" />
+        <img src="https://img.shields.io/badge/Text--to--SQL-0D1B2A?style=flat-square&logoColor=FFC300" alt="Text-to-SQL" />
+        <img src="https://img.shields.io/badge/SQLite-0D1B2A?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 💻 Stack Tecnológica <img src="COLE_O_LINK_DO_GIF_3_AQUI" height="28" alt="Dragon Ball Pixel Art" />
+### 💻 Stack Tecnológica <img src="https://media.tenor.com/w9TU2m5cGnQAAAAM/dbz-dragonball-dbz.gif" height="45" alt="Dragon Ball Pixel Art" />
 
-| Domínio | Tecnologias & Ferramentas |
-| :--- | :--- |
-| **Linguagens** | ![Python](https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=3776AB) ![TypeScript](https://img.shields.io/badge/TypeScript-0D1B2A?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1B2A?style=flat-square&logo=javascript&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=4479A1) ![Java](https://img.shields.io/badge/Java-0D1B2A?style=flat-square&logo=openjdk&logoColor=ED8B00) ![C](https://img.shields.io/badge/C-0D1B2A?style=flat-square&logo=c&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/C%2B%2B-0D1B2A?style=flat-square&logo=cplusplus&logoColor=00599C) |
-| **Front-end & Mobile** | ![React](https://img.shields.io/badge/React-0D1B2A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-0D1B2A?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-0D1B2A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-0D1B2A?style=flat-square&logo=vite&logoColor=646CFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1B2A?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0D1B2A?style=flat-square&logo=shadcnui&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-0D1B2A?style=flat-square&logo=mantine&logoColor=339AF0) ![CSS Modules](https://img.shields.io/badge/CSS_Modules-0D1B2A?style=flat-square&logo=cssmodules&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-0D1B2A?style=flat-square&logo=reactquery&logoColor=FF4154) ![HTML5](https://img.shields.io/badge/HTML5-0D1B2A?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0D1B2A?style=flat-square&logo=css3&logoColor=1572B6) ![jQuery](https://img.shields.io/badge/jQuery-0D1B2A?style=flat-square&logo=jquery&logoColor=0769AD) |
-| **Back-end & Dados** | ![FastAPI](https://img.shields.io/badge/FastAPI-0D1B2A?style=flat-square&logo=fastapi&logoColor=009688) ![Django](https://img.shields.io/badge/Django-0D1B2A?style=flat-square&logo=django&logoColor=44B78B) ![Node.js](https://img.shields.io/badge/Node.js-0D1B2A?style=flat-square&logo=nodedotjs&logoColor=339933) ![REST API](https://img.shields.io/badge/REST_API-0D1B2A?style=flat-square&logo=fastapi&logoColor=F97316) ![Pydantic](https://img.shields.io/badge/Pydantic-0D1B2A?style=flat-square&logo=pydantic&logoColor=E92063) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0D1B2A?style=flat-square&logo=sqlalchemy&logoColor=D71F00) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=4169E1) ![pgvector](https://img.shields.io/badge/pgvector-0D1B2A?style=flat-square&logo=postgresql&logoColor=FACC15) ![Supabase](https://img.shields.io/badge/Supabase-0D1B2A?style=flat-square&logo=supabase&logoColor=3ECF8E) ![MySQL](https://img.shields.io/badge/MySQL-0D1B2A?style=flat-square&logo=mysql&logoColor=4479A1) ![SQLite](https://img.shields.io/badge/SQLite-0D1B2A?style=flat-square&logo=sqlite&logoColor=003B57) ![Prisma](https://img.shields.io/badge/Prisma-0D1B2A?style=flat-square&logo=prisma&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-0D1B2A?style=flat-square&logo=databricks&logoColor=FF3621) ![PySpark](https://img.shields.io/badge/PySpark-0D1B2A?style=flat-square&logo=apachespark&logoColor=E25A1C) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-0D1B2A?style=flat-square&logo=databricks&logoColor=00ADD8) ![Power BI](https://img.shields.io/badge/Power_BI-0D1B2A?style=flat-square&logo=powerbi&logoColor=F2C811) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-0D1B2A?style=flat-square&logo=looker&logoColor=4285F4) |
-| **IA, GenAI & Data Science** | ![LangGraph](https://img.shields.io/badge/LangGraph-0D1B2A?style=flat-square&logo=langchain&logoColor=1C3C3C) ![PydanticAI](https://img.shields.io/badge/PydanticAI-0D1B2A?style=flat-square&logo=pydantic&logoColor=E92063) ![RAG & Text-to-SQL](https://img.shields.io/badge/RAG_%26_Text--to--SQL-0D1B2A?style=flat-square&logoColor=FACC15) ![OpenRouter](https://img.shields.io/badge/OpenRouter-0D1B2A?style=flat-square&logo=openai&logoColor=6467F2) ![9router](https://img.shields.io/badge/9router-0D1B2A?style=flat-square&logoColor=F97316) ![Keras](https://img.shields.io/badge/Keras-0D1B2A?style=flat-square&logo=keras&logoColor=D00000) ![Jupyter](https://img.shields.io/badge/Jupyter-0D1B2A?style=flat-square&logo=jupyter&logoColor=F37626) ![Anaconda](https://img.shields.io/badge/Anaconda-0D1B2A?style=flat-square&logo=anaconda&logoColor=44A833) |
-| **DevOps, Testes & Tools** | ![Docker](https://img.shields.io/badge/Docker-0D1B2A?style=flat-square&logo=docker&logoColor=2496ED) ![Git](https://img.shields.io/badge/Git-0D1B2A?style=flat-square&logo=git&logoColor=F05032) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1B2A?style=flat-square&logo=githubactions&logoColor=2088FF) ![Pytest](https://img.shields.io/badge/Pytest-0D1B2A?style=flat-square&logo=pytest&logoColor=0A9EDC) ![Vitest](https://img.shields.io/badge/Vitest-0D1B2A?style=flat-square&logo=vitest&logoColor=6E9F18) ![uv](https://img.shields.io/badge/uv-0D1B2A?style=flat-square&logo=astral&logoColor=DE5FE9) ![GitFlow](https://img.shields.io/badge/GitFlow-0D1B2A?style=flat-square&logo=git&logoColor=F97316) ![Metodologias Ágeis](https://img.shields.io/badge/Metodologias_Ágeis-0D1B2A?style=flat-square&logo=jira&logoColor=0052CC) ![Linux](https://img.shields.io/badge/Linux-0D1B2A?style=flat-square&logo=linux&logoColor=FCC624) ![Figma](https://img.shields.io/badge/Figma-0D1B2A?style=flat-square&logo=figma&logoColor=F24E1E) ![Vercel](https://img.shields.io/badge/Vercel-0D1B2A?style=flat-square&logo=vercel&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D1B2A?style=flat-square&logo=raspberrypi&logoColor=A22846) ![Arduino](https://img.shields.io/badge/Arduino-0D1B2A?style=flat-square&logo=arduino&logoColor=00979D) ![Overleaf](https://img.shields.io/badge/Overleaf-0D1B2A?style=flat-square&logo=overleaf&logoColor=47A141) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-0D1B2A?style=flat-square&logoColor=D83B01) |
+<div align="center">
+
+<b>Linguagens</b>
+<br><br>
+<img src="https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-0D1B2A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-0D1B2A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=4479A1" alt="SQL" />
+<img src="https://img.shields.io/badge/Java-0D1B2A?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+<img src="https://img.shields.io/badge/C-0D1B2A?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-0D1B2A?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
+
+<br><br>
+
+<b>Front-end & Mobile</b>
+<br><br>
+<img src="https://img.shields.io/badge/React-0D1B2A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-0D1B2A?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React_Native-0D1B2A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Vite-0D1B2A?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+<img src="https://img.shields.io/badge/TanStack_Query-0D1B2A?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/jQuery-0D1B2A?style=flat-square&logo=jquery&logoColor=0769AD" alt="jQuery" />
+<br>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D1B2A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-0D1B2A?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+<img src="https://img.shields.io/badge/Mantine-0D1B2A?style=flat-square&logo=mantine&logoColor=339AF0" alt="Mantine" />
+<img src="https://img.shields.io/badge/CSS_Modules-0D1B2A?style=flat-square&logo=cssmodules&logoColor=white" alt="CSS Modules" />
+<img src="https://img.shields.io/badge/HTML5-0D1B2A?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0D1B2A?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+
+<br><br>
+
+<b>Back-end & Dados</b>
+<br><br>
+<img src="https://img.shields.io/badge/FastAPI-0D1B2A?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Django-0D1B2A?style=flat-square&logo=django&logoColor=44B78B" alt="Django" />
+<img src="https://img.shields.io/badge/Node.js-0D1B2A?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+<img src="https://img.shields.io/badge/REST_API-0D1B2A?style=flat-square&logo=fastapi&logoColor=F85B1A" alt="REST API" />
+<img src="https://img.shields.io/badge/Pydantic-0D1B2A?style=flat-square&logo=pydantic&logoColor=E92063" alt="Pydantic" />
+<img src="https://img.shields.io/badge/SQLAlchemy-0D1B2A?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" />
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/pgvector-0D1B2A?style=flat-square&logo=postgresql&logoColor=FFC300" alt="pgvector" />
+<img src="https://img.shields.io/badge/Supabase-0D1B2A?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+<img src="https://img.shields.io/badge/MySQL-0D1B2A?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-0D1B2A?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" />
+<img src="https://img.shields.io/badge/Prisma-0D1B2A?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+<br>
+<img src="https://img.shields.io/badge/Databricks-0D1B2A?style=flat-square&logo=databricks&logoColor=FF3621" alt="Databricks" />
+<img src="https://img.shields.io/badge/PySpark-0D1B2A?style=flat-square&logo=apachespark&logoColor=E25A1C" alt="PySpark" />
+<img src="https://img.shields.io/badge/Delta_Lake-0D1B2A?style=flat-square&logo=databricks&logoColor=00ADD8" alt="Delta Lake" />
+<img src="https://img.shields.io/badge/Power_BI-0D1B2A?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+<img src="https://img.shields.io/badge/Looker_Studio-0D1B2A?style=flat-square&logo=looker&logoColor=4285F4" alt="Looker Studio" />
+
+<br><br>
+
+<b>IA, GenAI & Data Science</b>
+<br><br>
+<img src="https://img.shields.io/badge/LangGraph-0D1B2A?style=flat-square&logo=langchain&logoColor=FFC300" alt="LangGraph" />
+<img src="https://img.shields.io/badge/PydanticAI-0D1B2A?style=flat-square&logo=pydantic&logoColor=E92063" alt="PydanticAI" />
+<img src="https://img.shields.io/badge/RAG_%26_Text--to--SQL-0D1B2A?style=flat-square&logoColor=FFC300" alt="RAG & Text-to-SQL" />
+<img src="https://img.shields.io/badge/OpenRouter-0D1B2A?style=flat-square&logo=openai&logoColor=6467F2" alt="OpenRouter" />
+<br>
+<img src="https://img.shields.io/badge/9router-0D1B2A?style=flat-square&logoColor=F85B1A" alt="9router" />
+<img src="https://img.shields.io/badge/Keras-0D1B2A?style=flat-square&logo=keras&logoColor=D00000" alt="Keras" />
+<img src="https://img.shields.io/badge/Jupyter-0D1B2A?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Anaconda-0D1B2A?style=flat-square&logo=anaconda&logoColor=44A833" alt="Anaconda" />
+
+<br><br>
+
+<b>DevOps, Testes & Tools</b>
+<br><br>
+<img src="https://img.shields.io/badge/Docker-0D1B2A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-0D1B2A?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitFlow-0D1B2A?style=flat-square&logo=git&logoColor=F85B1A" alt="GitFlow" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0D1B2A?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Pytest-0D1B2A?style=flat-square&logo=pytest&logoColor=0A9EDC" alt="Pytest" />
+<img src="https://img.shields.io/badge/Vitest-0D1B2A?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest" />
+<img src="https://img.shields.io/badge/uv-0D1B2A?style=flat-square&logo=astral&logoColor=DE5FE9" alt="uv" />
+<img src="https://img.shields.io/badge/Vercel-0D1B2A?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+<br>
+<img src="https://img.shields.io/badge/Linux-0D1B2A?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-0D1B2A?style=flat-square&logo=raspberrypi&logoColor=A22846" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/Arduino-0D1B2A?style=flat-square&logo=arduino&logoColor=00979D" alt="Arduino" />
+<img src="https://img.shields.io/badge/Metodologias_Ágeis-0D1B2A?style=flat-square&logo=jira&logoColor=0052CC" alt="Metodologias Ágeis" />
+<img src="https://img.shields.io/badge/Figma-0D1B2A?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+<img src="https://img.shields.io/badge/Overleaf-0D1B2A?style=flat-square&logo=overleaf&logoColor=47A141" alt="Overleaf" />
+<img src="https://img.shields.io/badge/Microsoft_Office-0D1B2A?style=flat-square&logoColor=D83B01" alt="Microsoft Office" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats <img src="COLE_O_LINK_DO_GIF_4_AQUI" height="28" alt="Dragon Ball Pixel Art" />
+### 📊 GitHub Stats <img src="https://media.tenor.com/d9iS7sCCeYIAAAAC/super-saiyan-goku.gif" height="45" alt="Dragon Ball Pixel Art" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nunnowdc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=0D1B2A&title_color=F97316&icon_color=FACC15&text_color=E2E8F0&hide_border=true&locale=en&cache_seconds=86400" height="175" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunnowdc&locale=en&hide_title=false&layout=compact&include_all_commits=true&count_private=true&card_width=400&langs_count=12&bg_color=0D1B2A&title_color=F97316&text_color=E2E8F0&hide_border=true&cache_seconds=3200" height="175" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nunnowdc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=0D1B2A&title_color=F85B1A&icon_color=FFC300&text_color=F1F5F9&ring_color=F85B1A&hide_border=true&locale=en&cache_seconds=86400" height="175" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunnowdc&locale=en&hide_title=false&layout=compact&include_all_commits=true&count_private=true&card_width=400&langs_count=12&bg_color=0D1B2A&title_color=F85B1A&text_color=F1F5F9&hide_border=true&cache_seconds=3200" height="175" alt="top langs" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Commits-1600%2B-EA580C?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
-  <img src="https://img.shields.io/badge/Public_Repos-30%2B-FACC15?style=for-the-badge&logo=github&logoColor=0D1B2A" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/Contrib_Streak-15%2B_Days-1D4ED8?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Streak" />
+  <img src="https://img.shields.io/badge/Commits-1600%2B-F85B1A?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/Public_Repos-30%2B-FFC300?style=for-the-badge&logo=github&logoColor=0D1B2A" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Contrib_Streak-15%2B_Days-1E3A8A?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Streak" />
 </div>
 
 ---
@@ -95,30 +196,30 @@
 
 <div align="center">
   <a href="mailto:nunnowdcarvalho@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email_Pessoal-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pessoal" />
+    <img src="https://img.shields.io/badge/Email_Pessoal-F85B1A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pessoal" />
   </a>
   <a href="mailto:nwdc@cesar.school" target="_blank">
-    <img src="https://img.shields.io/badge/CESAR_School-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Institutional Email" />
+    <img src="https://img.shields.io/badge/CESAR_School-D7263D?style=for-the-badge&logo=gmail&logoColor=white" alt="Institutional Email" />
   </a>
   <a href="https://github.com/nunnowdc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/nunnowakiyama/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/nunno_wdc/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-FFC300?style=for-the-badge&logo=instagram&logoColor=0D1B2A" alt="Instagram" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="COLE_O_LINK_DO_GIF_5_AQUI" height="80" alt="Dragon Ball Pixel Art" />
+  <img src="https://media.tenor.com/W7LQKFSG-TAAAAAC/dragon-ball-z-pixel-art.gif" height="90" alt="Dragon Ball Pixel Art" />
   <img width="12" />
-  <img src="COLE_O_LINK_DO_GIF_6_AQUI" height="80" alt="Dragon Ball Pixel Art" />
+  <img src="https://media.tenor.com/pGdhE0hGps4AAAAM/goku-fighting.gif" height="90" alt="Dragon Ball Pixel Art" />
   <img width="12" />
-  <img src="COLE_O_LINK_DO_GIF_7_AQUI" height="80" alt="Dragon Ball Pixel Art" />
+  <img src="https://media.tenor.com/XscLOxYAmbMAAAAC/dragonball-sprite.gif" height="90" alt="Piccolo" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,45:EA580C,100:0D1B2A&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC300,50:F85B1A,100:0D1B2A&height=120&section=footer" />
