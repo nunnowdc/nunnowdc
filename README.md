@@ -95,7 +95,7 @@
 </p>
 
 ### Stack Tecnológica 
-<p align="left">
+<p align="right">
   <img src="https://media.tenor.com/FZugEEtzj3AAAAAi/super-saiyan-goku.gif" height="110" alt="Goku Pixel Art" />
 </p>
 
