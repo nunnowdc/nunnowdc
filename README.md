@@ -4,11 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=2500&pause=1500&color=F85B1A&center=true&vCenter=true&width=600&height=60&lines=Nunno+Wakiyama" alt="Nunno Wakiyama" />
 </div>
 
-<br>
+<p align="left">
+  <img src="https://media.tenor.com/YBNQK4cqyQAAAAAi/dragon-balls-discord.gif" height="110" alt="Esferas do Dragão" />
+</p>
 
 ### 🔹 Sobre mim
 
-<img align="right" src="https://media.tenor.com/DcCtcHvqoMUAAAAi/gohan.gif" width="170" alt="Gohan Pixel Art" />
+<img align="right" src="https://media.tenor.com/DcCtcHvqoMUAAAAi/gohan.gif" width="230" alt="Gohan Pixel Art" />
+
+<div align="justify">
 
 - 🎓 **Formação** — Graduando em Ciência da Computação na **CESAR School** (ingresso via transferência externa após 6 períodos na UNICAP).
 
@@ -18,18 +22,24 @@
 
 - 🤖 **Dados & IA** — Estruturação de pipelines Lakehouse na arquitetura Medalhão, modelagem dimensional e agentes de IA generativa com RAG e Text-to-SQL.
 
+</div>
+
 <br clear="right" />
 
 ---
 
-### 🚀 Projetos em Destaque <img src="https://media.tenor.com/3Rno-1ZCxzQAAAAi/dragon-ball-budoten-fighter-z-idle-gif.gif" height="45" alt="Goku Pixel Art" />
+<p align="right">
+  <img src="https://media.tenor.com/YBNQK4cqyQAAAAAi/dragon-balls-discord.gif" height="110" alt="Esferas do Dragão" />
+</p>
+
+### Projetos em Destaque <img src="https://media.tenor.com/3Rno-1ZCxzQAAAAi/dragon-ball-budoten-fighter-z-idle-gif.gif" height="75" alt="Goku Pixel Art" />
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <br>
       <strong>⚡ <a href="https://github.com/nunnowdc/v-energy-grid-360">V-Energy Grid 360</a></strong>
-      <p>Portal analítico e operacional para o setor elétrico com indicadores de receita, continuidade (DEC/FEC), visão 360° de unidades consumidoras, fila de inspeção e agente de IA conversacional com RAG e Text-to-SQL.</p>
+      <p align="justify">Portal analítico e operacional para o setor elétrico com indicadores de receita, continuidade (DEC/FEC), visão 360° de unidades consumidoras, fila de inspeção e agente de IA conversacional com RAG e Text-to-SQL.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-0D1B2A?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
         <img src="https://img.shields.io/badge/React-0D1B2A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -41,7 +51,7 @@
     <td width="50%" valign="top">
       <br>
       <strong>🎬 <a href="https://github.com/nunnowdc/Atividade-DEV-Rocket-Lab-26.2">CineRocket</a></strong>
-      <p>Plataforma full-stack de catálogo e avaliação de filmes inspirada no Letterboxd, com busca reativa, filtros combináveis, watchlist persistente, média ponderada incremental e suíte de testes automatizados.</p>
+      <p align="justify">Plataforma full-stack de catálogo e avaliação de filmes inspirada no Letterboxd, com busca reativa, filtros combináveis, watchlist persistente, média ponderada incremental e suíte de testes automatizados.</p>
       <p>
         <img src="https://img.shields.io/badge/React_19-0D1B2A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
         <img src="https://img.shields.io/badge/TypeScript-0D1B2A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
@@ -55,7 +65,7 @@
     <td width="50%" valign="top">
       <br>
       <strong>🏗️ <a href="https://github.com/nunnowdc/Projeto-CineData-Analytics-RocketLab-2026.2">CineData Analytics — Pipeline Lakehouse</a></strong>
-      <p>Pipeline de Engenharia de Dados end-to-end no Databricks seguindo a Arquitetura Medalhão (Bronze → Silver → Gold), modelagem dimensional em Star Schema, ingestão da API PTAX (BCB) e base de contexto para RAG.</p>
+      <p align="justify">Pipeline de Engenharia de Dados end-to-end no Databricks seguindo a Arquitetura Medalhão (Bronze → Silver → Gold), modelagem dimensional em Star Schema, ingestão da API PTAX (BCB) e base de contexto para RAG.</p>
       <p>
         <img src="https://img.shields.io/badge/Databricks-0D1B2A?style=flat-square&logo=databricks&logoColor=FF3621" alt="Databricks" />
         <img src="https://img.shields.io/badge/PySpark-0D1B2A?style=flat-square&logo=apachespark&logoColor=E25A1C" alt="PySpark" />
@@ -66,7 +76,7 @@
     <td width="50%" valign="top">
       <br>
       <strong>🤖 <a href="https://github.com/nunnowdc/Atividade-GenAI-CineData-Analytics-Rocket-Lab-2026">CineData — Agente Text-to-SQL</a></strong>
-      <p>Agente de IA generativa em português para análise de dados cinematográficos em linguagem natural, com autocorreção de queries, camada semântica, fallback entre modelos e guardrails contra SQL/Prompt Injection.</p>
+      <p align="justify">Agente de IA generativa em português para análise de dados cinematográficos em linguagem natural, com autocorreção de queries, camada semântica, fallback entre modelos e guardrails contra SQL/Prompt Injection.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
         <img src="https://img.shields.io/badge/PydanticAI-0D1B2A?style=flat-square&logo=pydantic&logoColor=E92063" alt="PydanticAI" />
@@ -80,7 +90,11 @@
 
 ---
 
-### 💻 Stack Tecnológica <img src="https://media.tenor.com/4MFbvmQaOEsAAAAi/yes-dragon-ball-z.gif" height="55" alt="Gohan Pixel Art" />
+<p align="left">
+  <img src="https://media.tenor.com/YBNQK4cqyQAAAAAi/dragon-balls-discord.gif" height="110" alt="Esferas do Dragão" />
+</p>
+
+### Stack Tecnológica <img src="https://media.tenor.com/FZugEEtzj3AAAAAi/super-saiyan-goku.gif" height="110" alt="Goku Pixel Art" />
 
 <div align="center">
 
@@ -175,7 +189,11 @@
 
 ---
 
-### 📊 GitHub Stats <img src="https://media.tenor.com/XscLOxYAmbMAAAAi/dragonball-sprite.gif" height="45" alt="Piccolo Pixel Art" />
+<p align="right">
+  <img src="https://media.tenor.com/YBNQK4cqyQAAAAAi/dragon-balls-discord.gif" height="110" alt="Esferas do Dragão" />
+</p>
+
+### GitHub Stats <img src="https://media.tenor.com/r3dwhBSKpNMAAAAi/dragonball-sprite.gif" height="80" alt="Vegetto Pixel Art" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nunnowdc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=0D1B2A&title_color=F85B1A&icon_color=FFC300&text_color=F1F5F9&ring_color=F85B1A&hide_border=true&locale=en&cache_seconds=86400" height="175" alt="stats graph" />
@@ -192,7 +210,11 @@
 
 ---
 
-### 🔗 Conecte-se comigo <img src="https://media.tenor.com/Gie5G6h373YAAAAi/goku-dragon-ball.gif" height="45" alt="Goku Pixel Art" />
+<p align="left">
+  <img src="https://media.tenor.com/YBNQK4cqyQAAAAAi/dragon-balls-discord.gif" height="110" alt="Esferas do Dragão" />
+</p>
+
+### Conecte-se comigo <img src="https://media.tenor.com/Gie5G6h373YAAAAi/goku-dragon-ball.gif" height="70" alt="Goku Pixel Art" />
 
 <div align="center">
   <a href="mailto:nunnowdcarvalho@gmail.com" target="_blank">
@@ -211,5 +233,9 @@
     <img src="https://img.shields.io/badge/Instagram-FFC300?style=for-the-badge&logo=instagram&logoColor=0D1B2A" alt="Instagram" />
   </a>
 </div>
+
+<p align="right">
+  <img src="https://media.tenor.com/YBNQK4cqyQAAAAAi/dragon-balls-discord.gif" height="110" alt="Esferas do Dragão" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC300,50:F85B1A,100:0D1B2A&height=120&section=footer" />
