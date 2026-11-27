@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,55:EA580C,100:FACC15&height=150&section=header&text=Nunno%20Wakiyama&fontSize=44&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" />
 
-### 🔹 Sobre mim <img src="./assets/dbz-pixel-header.gif" height="26" alt="Dragon Ball Pixel Art" />
+### 🔹 Sobre mim
 
-<img align="right" src="./assets/dbz-pixel-about.gif" width="130" alt="Dragon Ball Pixel Art" />
+<img align="right" src="COLE_O_LINK_DO_GIF_1_AQUI" width="130" alt="Dragon Ball Pixel Art" />
 
 - 🎓 **Formação** — Graduando em Ciência da Computação na **CESAR School** (ingresso via transferência externa após 6 períodos na UNICAP).
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 Projetos em Destaque <img src="./assets/dbz-pixel-projects.gif" height="28" alt="Dragon Ball Pixel Art" />
+### 🚀 Projetos em Destaque <img src="COLE_O_LINK_DO_GIF_2_AQUI" height="28" alt="Dragon Ball Pixel Art" />
 
 <table width="100%">
   <tr>
@@ -62,7 +62,7 @@
 
 ---
 
-### 💻 Stack Tecnológica
+### 💻 Stack Tecnológica <img src="COLE_O_LINK_DO_GIF_3_AQUI" height="28" alt="Dragon Ball Pixel Art" />
 
 | Domínio | Tecnologias & Ferramentas |
 | :--- | :--- |
@@ -74,7 +74,7 @@
 
 ---
 
-### 📊 GitHub Stats <img src="./assets/dbz-pixel-stats.gif" height="28" alt="Dragon Ball Pixel Art" />
+### 📊 GitHub Stats <img src="COLE_O_LINK_DO_GIF_4_AQUI" height="28" alt="Dragon Ball Pixel Art" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nunnowdc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=0D1B2A&title_color=F97316&icon_color=FACC15&text_color=E2E8F0&hide_border=true&locale=en&cache_seconds=86400" height="175" alt="stats graph" />
@@ -87,12 +87,6 @@
   <img src="https://img.shields.io/badge/Commits-1600%2B-EA580C?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
   <img src="https://img.shields.io/badge/Public_Repos-30%2B-FACC15?style=for-the-badge&logo=github&logoColor=0D1B2A" alt="Public Repos" />
   <img src="https://img.shields.io/badge/Contrib_Streak-15%2B_Days-1D4ED8?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nunnowdc&theme=gruvbox&margin-w=10&margin-h=1&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -120,21 +114,11 @@
 <br>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d2/11/0c/d2110c50a22020900743aaad39091499.gif" height="80" />
-  <img width="8" />
-  <img src="https://66.media.tumblr.com/tumblr_maw6psZPRo1rfjowdo1_500.gif" height="80" />
-  <img width="8" />
-  <img src="https://i.pinimg.com/originals/b7/8d/1d/b78d1d16bd7f67ecda071808e51b4b97.gif" height="80" />
-  <img width="8" />
-  <img src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif" height="80" />
-  <img width="8" />
-  <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" height="80" />
-  <img width="8" />
-  <img src="https://i.gifer.com/origin/e3/e3ee7f259f3cbc0c04e7b4c0df9caadf_w200.gif" height="80" />
-  <img width="8" />
-  <img src="https://i.pinimg.com/originals/9d/d7/f9/9dd7f9e622c2df33090dada16c9c0151.gif" height="80" />
-  <img width="8" />
-  <img src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif" height="80" />
+  <img src="COLE_O_LINK_DO_GIF_5_AQUI" height="80" alt="Dragon Ball Pixel Art" />
+  <img width="12" />
+  <img src="COLE_O_LINK_DO_GIF_6_AQUI" height="80" alt="Dragon Ball Pixel Art" />
+  <img width="12" />
+  <img src="COLE_O_LINK_DO_GIF_7_AQUI" height="80" alt="Dragon Ball Pixel Art" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,45:EA580C,100:0D1B2A&height=120&section=footer" />
