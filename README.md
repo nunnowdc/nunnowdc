@@ -94,10 +94,9 @@
   <img src="https://media.tenor.com/YBNQK4cqyQAAAAAi/dragon-balls-discord.gif" height="110" alt="Esferas do Dragão" />
 </p>
 
-### Stack Tecnológica 
-<p align="right">
-  <img src="https://media.tenor.com/FZugEEtzj3AAAAAi/super-saiyan-goku.gif" height="110" alt="Goku Pixel Art" />
-</p>
+<img align="right" src="https://media.tenor.com/FZugEEtzj3AAAAAi/super-saiyan-goku.gif" height="110" alt="Goku Pixel Art" />
+
+### Stack Tecnológica
 
 <div align="center">
 
