@@ -8,7 +8,7 @@
 
 ### 🔹 Sobre mim
 
-<img align="right" src="https://media.tenor.com/rN5mpTqhfHMAAAAM/goku-dbz.gif" width="150" alt="Dragon Ball Pixel Art" />
+<img align="right" src="https://media.tenor.com/DcCtcHvqoMUAAAAi/gohan.gif" width="170" alt="Gohan Pixel Art" />
 
 - 🎓 **Formação** — Graduando em Ciência da Computação na **CESAR School** (ingresso via transferência externa após 6 períodos na UNICAP).
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 Projetos em Destaque <img src="https://media.tenor.com/3Rno-1ZCxzQAAAAC/dragon-ball-budoten-fighter-z-idle-gif.gif" height="45" alt="Dragon Ball Pixel Art" />
+### 🚀 Projetos em Destaque <img src="https://media.tenor.com/3Rno-1ZCxzQAAAAi/dragon-ball-budoten-fighter-z-idle-gif.gif" height="45" alt="Goku Pixel Art" />
 
 <table width="100%">
   <tr>
@@ -80,7 +80,7 @@
 
 ---
 
-### 💻 Stack Tecnológica <img src="https://media.tenor.com/w9TU2m5cGnQAAAAM/dbz-dragonball-dbz.gif" height="45" alt="Dragon Ball Pixel Art" />
+### 💻 Stack Tecnológica <img src="https://media.tenor.com/4MFbvmQaOEsAAAAi/yes-dragon-ball-z.gif" height="55" alt="Gohan Pixel Art" />
 
 <div align="center">
 
@@ -175,7 +175,7 @@
 
 ---
 
-### 📊 GitHub Stats <img src="https://media.tenor.com/d9iS7sCCeYIAAAAC/super-saiyan-goku.gif" height="45" alt="Dragon Ball Pixel Art" />
+### 📊 GitHub Stats <img src="https://media.tenor.com/XscLOxYAmbMAAAAi/dragonball-sprite.gif" height="45" alt="Piccolo Pixel Art" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nunnowdc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=0D1B2A&title_color=F85B1A&icon_color=FFC300&text_color=F1F5F9&ring_color=F85B1A&hide_border=true&locale=en&cache_seconds=86400" height="175" alt="stats graph" />
@@ -192,7 +192,7 @@
 
 ---
 
-### 🔗 Conecte-se comigo
+### 🔗 Conecte-se comigo <img src="https://media.tenor.com/Gie5G6h373YAAAAi/goku-dragon-ball.gif" height="45" alt="Goku Pixel Art" />
 
 <div align="center">
   <a href="mailto:nunnowdcarvalho@gmail.com" target="_blank">
@@ -210,16 +210,6 @@
   <a href="https://www.instagram.com/nunno_wdc/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FFC300?style=for-the-badge&logo=instagram&logoColor=0D1B2A" alt="Instagram" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.tenor.com/W7LQKFSG-TAAAAAC/dragon-ball-z-pixel-art.gif" height="90" alt="Dragon Ball Pixel Art" />
-  <img width="12" />
-  <img src="https://media.tenor.com/pGdhE0hGps4AAAAM/goku-fighting.gif" height="90" alt="Dragon Ball Pixel Art" />
-  <img width="12" />
-  <img src="https://media.tenor.com/XscLOxYAmbMAAAAC/dragonball-sprite.gif" height="90" alt="Piccolo" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC300,50:F85B1A,100:0D1B2A&height=120&section=footer" />
