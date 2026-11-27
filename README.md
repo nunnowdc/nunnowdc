@@ -4,13 +4,13 @@
 
 <h3 align="left">🔹 Sobre mim: </h3>
 
-🎓 Ciência da Computação na CESAR School — cheguei via transferência externa após 3 anos (6 períodos) de graduação na UNICAP.
+🎓 Ciência da Computação na **CESAR School** — cheguei via transferência externa após 3 anos (6 períodos) de graduação na UNICAP.
 
-💼 Estágio em Dados e Negócios na Yames Brazil, atuando na automação de coleta de dados, criação de modelos paramétricos, modelagem de banco em nuvem e desenvolvimento full stack para inteligência e precificação financeira.
+💼 Estágio em Dados e Negócios na **Yames Brazil**, atuando na automação de coleta de dados, criação de modelos paramétricos, modelagem de banco em nuvem e desenvolvimento full stack para inteligência e precificação financeira.
 
-🛠️ Experiência prática com APIs REST em Python (FastAPI, Django), interfaces reativas com React e Next.js, modelagem e integração de bancos relacionais (PostgreSQL, Supabase), além de boas práticas de engenharia como testes automatizados (Vitest), CI/CD (GitHub Actions) e algoritmos de otimização para problemas combinatórios.
+🛠️ Experiência prática com APIs REST em Python (**FastAPI, Django, Pydantic, SQLAlchemy**), interfaces reativas (**React, Next.js, TypeScript, Tailwind, shadcn/ui, Mantine**), bancos relacionais e vetoriais (**PostgreSQL, pgvector, Supabase**), além de boas práticas de engenharia como testes automatizados (**Pytest, Vitest**), **Docker**, CI/CD (**GitHub Actions**) e algoritmos de otimização combinatória.
 
-🔬 Interesses de estudo: Data Science, Data Engineer, Machine Learning e Visão Computacional — com projetos práticos de Deep Learning e curadoria de dados.
+🔬 Foco atual em **Engenharia de Dados, Data Science, Visão Computacional e IA Generativa** — construindo pipelines Lakehouse/Medalhão (**Databricks, PySpark, Delta Lake**) e agentes de IA com **LangGraph, PydanticAI, RAG e Text-to-SQL**.
 
 #
 
@@ -27,53 +27,75 @@
 
 <h3 align="left">💻 Linguagens & Front-end:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="java script logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="30" alt="React logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="30" alt="React logo" />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="Node JS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="Node.js logo" />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="30" alt="React Native logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="30" alt="React Native logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="30" alt="Vite logo" />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS logo" />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" alt="Mantine" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/CSS_Modules-000000?style=flat-square&logo=cssmodules&logoColor=white" alt="CSS Modules" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
   <img width="4" />
 </div>
 
 #
 
-<h3 align="left">🗄️ Back-end & Dados:</h3>
+<h3 align="left">🗄️ Back-end & Engenharia de Dados:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI logo" />
   <img width="4" />
-  <img src="https://github.com/user-attachments/assets/29804b07-ea59-4bc5-9f01-88ac36f181b4" height="30" alt="django logo"  />
+  <img src="https://github.com/user-attachments/assets/29804b07-ea59-4bc5-9f01-88ac36f181b4" height="30" alt="Django logo" />
   <img width="4" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
   <img width="4" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30" alt="Supabase logo" />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite logo" />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="30" alt="Prisma logo" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="30" alt="PySpark logo" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logo=databricks&logoColor=white" alt="Delta Lake" />
   <img width="4" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
   <img width="4" />
@@ -83,13 +105,41 @@
 
 #
 
-<h3 align="left">⚙️ DevOps & Metodologias:</h3>
+<h3 align="left">🤖 IA, GenAI & Data Science:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="PydanticAI" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/RAG_%26_Text--to--SQL-4F46E5?style=flat-square" alt="RAG & Text-to-SQL" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square&logo=openai&logoColor=white" alt="OpenRouter" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/9router-1F2937?style=flat-square" alt="9router" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" alt="Keras" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter Notebook logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda logo" />
+  <img width="4" />
+</div>
+
+#
+
+<h3 align="left">⚙️ DevOps, Testes & Metodologias:</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="30" alt="Docker logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="30" alt="GitHub Actions logo" />
   <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="30" alt="Pytest logo" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="30" alt="Vitest logo" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=astral&logoColor=white" alt="uv" />
   <img width="4" />
   <img src="https://img.shields.io/badge/GitFlow-F05032?style=flat-square&logo=git&logoColor=white" alt="GitFlow" />
   <img width="4" />
@@ -103,17 +153,11 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" height="30" alt="jQuery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" height="30" alt="jQuery logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" alt="Keras" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="30px" />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter Notebook logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry" height="30px" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" height="30px"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" height="30px" />
   <img width="4" />
   <img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" alt="Overleaf" height="30px" />
   <img width="4" />
@@ -130,8 +174,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pessoal" />
   </a>
   <img width="1" />
-  <a href="mailto:nunno.00000849115@unicap.br" target="_blank">
-  <img src="https://img.shields.io/badge/Institutional%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Institutional Email" />
+  <a href="mailto:nwdc@cesar.school" target="_blank">
+    <img src="https://img.shields.io/badge/Institutional%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Institutional Email" />
   </a>
   <img width="1" />
   <a href="https://github.com/nunnowdc" target="_blank">
@@ -180,10 +224,8 @@
   <img src="https://i.pinimg.com/originals/9d/d7/f9/9dd7f9e622c2df33090dada16c9c0151.gif" width="80"/>
   <img width="10" />
   <img src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif" width="110"/>
-
 </div>
 
 #
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8116C4&height=120&section=footer"/>
